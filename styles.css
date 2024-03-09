@@ -1,0 +1,29 @@
+
+        .a{
+            height: 500px;
+             width:500px; 
+             background-color: #ff7f00;
+
+        }
+        .b{
+            background-color: #7690ac;  
+            height: 250px; width: 250px;
+        }
+
+        .c{
+            color: white ; background-color: red;
+            font-size: 25px monospace ; 
+            font-weight: bold;
+
+        }
+        .d{
+            height: 50%; 
+            background-color: 
+            rgb(10, 156, 240);
+        }
+        .e{
+            width: 75%; 
+            height: 250px ;
+             background-color: rgb(255, 0, 0);
+        }
+      
